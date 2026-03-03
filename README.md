@@ -119,7 +119,7 @@ python visualizations.py
 ![Performance Distribution](charts/performance_distribution.png)
 
 ### Performance by Condition
-![Performance by Condition](charts/performance_by_measures.png)
+![Performance by Condition](charts/performance_by_measure.png)
 
 ### Hospitals Needing Improvement
 ![Improvement Needed](charts/hospitals_needing_improvement.png)
