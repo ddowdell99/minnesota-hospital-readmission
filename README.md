@@ -116,16 +116,16 @@ python visualizations.py
 ## Sample Visualizations
 
 ### Performance Distribution
-![Performance Distribution](charts\performance_distribution.png)
+![Performance Distribution](charts/performance_distribution.png)
 
 ### Performance by Condition
-![Performance by Condition](charts\performance_by_measures.png)
+![Performance by Condition](charts/performance_by_measures.png)
 
 ### Hospitals Needing Improvement
-![Improvement Needed](charts\hospitals_needing_improvement.png)
+![Improvement Needed](charts/hospitals_needing_improvement.png)
 
 ### Top Performers
-![Top Performers](charts\top_performing_hospitals.png)
+![Top Performers](charts/top_performing_hospitals.png)
 
 ---
 
